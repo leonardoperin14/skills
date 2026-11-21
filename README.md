@@ -21,6 +21,19 @@ se uma pipe falha, um subagent opus diagnostica e corrige, e o haiku retoma o
 acompanhamento. Para `master`, passa por `develop` primeiro. Cobre retry de
 `gh` em 401 intermitente, regras de merge e formato de PR/commit.
 
+### `cold-traffic-ad-copy`
+Ad briefs and scripts for cold traffic using the 4-sales / 17-elements
+framework (content, hope, value, impulse). Flow: premises → target (market →
+segment → avatar) → brief → writing from a proven reference structure. Includes
+a risk-labeling system (conservative / moderate / aggressive) and a compliance
+checklist (FTC, FDA, platform policies). Based on "how I write ads that make
+strangers buy" by Derick Carneiro.
+
+### `persuasive-copy-4-sales`
+The same 4-sales method generalized to any copy: landing pages, VSLs, emails,
+posts, cold outreach and SaaS pages. Adds an awareness-level table that decides
+which sales are already made, a format map, and a review mode for existing copy.
+
 ## Instalação (symlink)
 
 Clone o repositório uma vez e aponte o diretório de skills de cada ferramenta
